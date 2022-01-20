@@ -1,0 +1,6 @@
+*.swp
+*.bak
+*.tmp
+*.o
+
+md5calc
